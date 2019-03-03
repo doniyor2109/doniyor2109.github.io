@@ -11,7 +11,7 @@ it will be great journey and will be fun).
 
 First of all I want to thank [Github personal website](https://github.com/github/personal-website) and [Jekyll](https://jekyllrb.com/docs/) team for building such a great tool for making it possible. I have created this blog post
 randomly 😂. I did not plan to create blog post in near feature. I was browsing my daily news feeds and read about 
-[Google opens .dev domain for everyone](https://developers.googleblog.com/2019/02/dev-for-all.html) then noticed that GitHub also got `.dev` domain https://github.dev.
+[Google opens .dev domain for everyone](https://developers.googleblog.com/2019/02/dev-for-all.html) then noticed that GitHub also got `.dev` domain [https://github.dev](https://github.dev).
 
 ![github.dev](/assets/github.dev.png) 
 

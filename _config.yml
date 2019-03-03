@@ -25,7 +25,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
 
   - name: Jest
-    web_url: https://github.com/topics/sass
+    web_url: https://jest.io
     image_url: https://camo.githubusercontent.com/31983294a16a373a7e752b57904f64cc030750db/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67
 
   - name: Open Source
